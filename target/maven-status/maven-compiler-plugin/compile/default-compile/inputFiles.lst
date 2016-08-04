@@ -1,0 +1,11 @@
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/model/SpptPK.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/controller/AppController.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/dao/SpptDao.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/service/SpptServiceImpl.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/dao/AbstractDao.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/dao/SpptDaoImpl.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/service/SpptService.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/configuration/AppInitializer.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/configuration/AppConfig.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/configuration/HibernateConfiguration.java
+/home/tamami/belajar/learn-spring-hibernate-webapp/src/main/java/lab/aikibo/model/Sppt.java

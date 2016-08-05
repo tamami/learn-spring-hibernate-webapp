@@ -6,4 +6,6 @@ import java.util.List;
 public interface SpptService {
   //public Sppt getSpptByNopThn(String nop, String thn);
   List<Sppt> getAllSppt();
+
+  List<Sppt> getSpptTerpilih();
 }

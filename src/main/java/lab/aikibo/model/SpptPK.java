@@ -9,10 +9,15 @@ import java.io.Serializable;
 public class SpptPK implements Serializable {
   private static final long serialVersionUID = 1L;
 
-  @Column(name = "nop")
+  public SpptPK(String nop, String thn) {
+    this.nop = nop;
+    this.thn = thn;
+  }
+
+  @Column(name = "NOP")
   private String nop;
 
-  @Column(name = "thn")
+  @Column(name = "THN")
   private String thn;
 
   // --- setter getter

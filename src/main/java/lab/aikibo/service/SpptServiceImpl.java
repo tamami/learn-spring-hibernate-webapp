@@ -25,4 +25,8 @@ public class SpptServiceImpl implements SpptService {
   public List<Sppt> getAllSppt() {
     return dao.getAllSppt();
   }
+
+  public List<Sppt> getSpptTerpilih() {
+    return dao.getSpptTerpilih();
+  }
 }

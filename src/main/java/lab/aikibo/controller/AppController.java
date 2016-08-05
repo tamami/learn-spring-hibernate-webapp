@@ -33,4 +33,11 @@ public class AppController {
     model.addAttribute("daftarSppt", daftarSppt);
     return "allsppt";
   }
+
+  @RequestMapping(value = {"/terpilih"}, method = RequestMethod.GET)
+  public String listSpptTerpilih(ModelMap model) {
+    List<Sppt> daftarSppt = service.getSpptTerpilih();
+    model.addAttribute("daftarSppt", daftarSppt);
+    return "allsppt";
+  }
 }

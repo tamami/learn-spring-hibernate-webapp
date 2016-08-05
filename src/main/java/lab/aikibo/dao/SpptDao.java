@@ -5,4 +5,6 @@ import lab.aikibo.model.Sppt;
 
 public interface SpptDao {
   List<Sppt> getAllSppt();
+
+  List<Sppt> getSpptTerpilih();
 }

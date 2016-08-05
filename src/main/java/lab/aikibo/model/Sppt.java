@@ -27,16 +27,16 @@ public class Sppt {
   @EmbeddedId
   private SpptPK pk;
 
-  @Column(name = "nama")
+  @Column(name = "NAMA")
   private String nama;
 
-  @Column(name = "alamat_op")
+  @Column(name = "ALAMAT_OP")
   private String alamatOp;
 
-  @Column(name = "pokok")
+  @Column(name = "POKOK")
   private BigInteger pokok;
 
-  @Column(name = "denda")
+  @Column(name = "DENDA")
   private BigInteger denda;
 
   // --- setter getter
